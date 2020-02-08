@@ -1,0 +1,92 @@
+body {
+    margin: 0px;
+    background-color: #333333;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-family: cursive;
+    font-size: 300%;
+    margin: 0;
+    color: #333333;
+
+}
+.top {
+    color: #333333;
+}
+.top-container {
+    
+    padding: 2%;
+    color: #333333;
+    background-color:#f3dfe3;
+}
+
+.middle-container {
+    color: #333333;
+    background-color: #e9b2bc;
+}
+.profile {
+    line-height: 2;
+    width: 50%;
+    margin: auto;
+}
+.skills {
+   
+    color: #333333;
+    padding: 2%;
+    background-color: #e89da2;
+}
+
+.skill-row {
+    text-align: left;
+    padding: 30px;
+    line-height: 2;
+    width: 50%;
+    margin: auto;
+}
+.contact-me {
+    color: #e89da2;
+   padding: 2%;
+   background-color: #333333;
+}
+
+.bottom-container {
+    color: #e89da2;
+   background-color: #4d4646;
+   padding: 1%;
+   height: 40px;
+    /*background-color: #e89da2;*/
+}
+
+
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    position: relative;
+    left: 280px;
+}
+
+.circular {
+    padding-top: 2%;
+    width: 50%;
+    border-radius: 100%;
+}
+
+.code {
+    float: left;
+   margin-right: 30px;
+    padding-top: 2%;
+    width: 25%;
+    border-radius: 100%;
+}
+
+.flight-img {
+    float: right;
+   margin-left: 30px;
+    padding-top: 2%;
+    width: 25%;
+    border-radius: 100%;
+}
